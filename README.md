@@ -181,6 +181,15 @@ La ejecución verificada #17 finalizó exitosamente, incluyendo comprobaciones d
 
 La documentación académica compartida del proyecto se centraliza en este repositorio organizacional, mientras que cada repositorio de aplicación conserva su documentación técnica específica.
 
+### 9.1 Propuesta de infraestructura AWS — Unidad 3
+
+Se documenta la arquitectura propuesta para el entorno de staging de EDUTRAK en AWS.
+
+Incluye EC2, Docker, NGINX, Angular, Go, PostgreSQL, seguridad, costos estimados, balanceo de carga y plan de despliegue.
+
+**Estado:** Diseño propuesto, pendiente de aprobación e implementación.
+
+**[Consultar arquitectura de despliegue AWS](docs/infraestructura/ARQUITECTURA_AWS.md)**
 ## 10. Alcance y evolución del sistema
 
 El proyecto contempla el desarrollo progresivo de sus funcionalidades, integraciones e interfaces.
